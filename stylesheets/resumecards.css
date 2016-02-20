@@ -47,10 +47,6 @@ audio:not([controls]) {
 template {
   display: none; }
 
-p.content{
-  font-size: 18px;
- } 
-
 a {
   background-color: transparent; }
 
@@ -2608,7 +2604,6 @@ input[type="button"].btn-block {
       border-bottom: 1px solid #ddd; }
 
 .panel-default {
-  height: 350px;
   border-color: #ddd; }
   .panel-default > .panel-heading {
     color: #333333;
